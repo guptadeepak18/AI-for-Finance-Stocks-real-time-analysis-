@@ -15,8 +15,8 @@ from keras.models import load_model
 
 def main():
     
-    image = Image.open('sm.jpeg')
-    st.image(image,use_column_width=True)
+    #image = Image.open('sm.jpeg')
+    #st.image(image,use_column_width=True)
 
     st.title("NSE Real-Time Stocks Analysis and Predictions")
     
