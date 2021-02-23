@@ -1,11 +1,10 @@
-#from imports_and_read import * 
+
 import keras.backend.tensorflow_backend as tb
-#tb._SYMBOLIC_SCOPE.value = True
+
 
 def main():
     
-    #image = Image.open('sm.jpeg')
-    #st.image(image,use_column_width=True)
+   
 
     st.title("NSE Real-Time Stocks Analysis and Predictions")
     
